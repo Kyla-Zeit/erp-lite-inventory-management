@@ -2,8 +2,6 @@
 
 A small full-stack project inspired by core ERP workflows: vendors, products, purchase orders, inventory counts, sales orders, and a low-stock dashboard.
 
-This is not a full ERP system. It is a focused learning project that demonstrates the **inventory/order management workflows** found inside ERP-style systems.
-
 ## What this project demonstrates
 
 - Product master data
@@ -101,10 +99,6 @@ POST   /api/sales-orders
 GET    /api/inventory-counts
 POST   /api/inventory-counts
 ```
-
-## Suggested resume wording
-
-Built an ERP-inspired inventory and order management system using React, Node.js, Express, and PostgreSQL. Implemented product and vendor master data, purchase order receiving, sales order stock deduction, inventory count adjustments, and a low-stock dashboard to demonstrate understanding of core ERP workflows.
 
 ## Interview wording
 
