@@ -99,3 +99,6 @@ POST   /api/sales-orders
 GET    /api/inventory-counts
 POST   /api/inventory-counts
 ```
+## Screenshot
+
+![ERP-Lite Dashboard](frontend/public/dashboard-screenshot.png)
