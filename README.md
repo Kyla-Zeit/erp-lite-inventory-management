@@ -99,7 +99,3 @@ POST   /api/sales-orders
 GET    /api/inventory-counts
 POST   /api/inventory-counts
 ```
-
-## Interview wording
-
-I have not worked directly in a production ERP system yet, but I studied the core workflows and built a small ERP-inspired inventory/order management project. It covers product and vendor data, purchase orders, sales orders, inventory counts, and low-stock reporting, which helped me understand how ERP systems connect operational data across purchasing, inventory, and sales.
